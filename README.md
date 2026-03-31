@@ -41,11 +41,11 @@ The project follows a structured machine learning workflow:
 
 ##  Tech Stack
 
-- Python  
-- Scikit-learn  
-- Pandas  
-- NumPy  
-- Matplotlib / Seaborn (for visualization)  
+- Python<br>
+- Scikit-learn<br> 
+- Pandas<br>  
+- NumPy<br>  
+- Matplotlib / Seaborn (for visualization)<br>  
 
 ---
 ## Setup / Installation
