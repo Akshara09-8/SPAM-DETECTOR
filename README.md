@@ -49,4 +49,3 @@ The project follows a structured machine learning workflow:
 
 ---
 
-## Project Structure
