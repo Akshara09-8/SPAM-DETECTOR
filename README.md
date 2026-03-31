@@ -73,16 +73,16 @@ pip install pandas numpy scikit-learn joblib
 
 This will:
 
-1.Train the model on sample messages.
-2.Test the model on a sample message.
-3.Print whether the test message is SPAM or HAM (Legit).
-4.You can also change the test_msg variable in the script to test your own messages.
+1.Train the model on sample messages.<br>
+2.Test the model on a sample message.<br>
+3.Print whether the test message is SPAM or HAM (Legit).<br>
+4.You can also change the test_msg variable in the script to test your own messages.<br>
 
 ## Usage Example
 Testing Message: 'Claim your free prize now by clicking here!'
 Prediction: SPAM
 
 ## Files
-your_script_name.py — Main Python script that trains and tests the model.
-spam_model.pkl — Saved Naive Bayes model (created after running the script).
-vectorizer.pkl — Saved CountVectorizer (created after running the script).
+your_script_name.py — Main Python script that trains and tests the model.<br>
+spam_model.pkl — Saved Naive Bayes model (created after running the script).<br>
+vectorizer.pkl — Saved CountVectorizer (created after running the script).<br>
