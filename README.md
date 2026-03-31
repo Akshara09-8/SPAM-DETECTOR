@@ -83,6 +83,6 @@ Testing Message: 'Claim your free prize now by clicking here!'
 Prediction: SPAM
 
 ## Files
-your_script_name.py — Main Python script that trains and tests the model.<br>
-spam_model.pkl — Saved Naive Bayes model (created after running the script).<br>
-vectorizer.pkl — Saved CountVectorizer (created after running the script).<br>
+- your_script_name.py — Main Python script that trains and tests the model.<br>
+- spam_model.pkl — Saved Naive Bayes model (created after running the script).<br>
+- vectorizer.pkl — Saved CountVectorizer (created after running the script).<br>
