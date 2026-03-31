@@ -62,7 +62,6 @@ cd your-repo-name
 Install dependencies
 
 - Make sure you have Python installed (Python 3.7+ recommended). Then install required packages:
-
 pip install pandas numpy scikit-learn joblib
 ----
 
